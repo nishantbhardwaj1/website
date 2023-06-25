@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Otter Survey in Pakke Tiger Reserve, Arunachal Pradesh, Eastern Himalayas of India"
 authors:
+- Atul Borker
+- Komal Gogi
+- Hannah Krupa
+- Melissa Savage
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +21,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "* IUCN Otter Specialist Group Bulletin"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Otter species are declining across their distribution in South Asia. There is an urgent need to understand the distribution of otters in the region, as well as to direct conservation efforts and protect their habitat. In India, there are very few data on otters in the Northeast region of the country. In this study, we report the presence of two species, Eurasian and Small-clawed otters, in the Pakke Tiger Reserve and Wildlife Sanctuary (Pakke Tiger Reserve) in Arunachal Pradesh, a large Indian state in the Eastern Himalayas. The Eurasian otter and the Small-clawed otter species are listed on Appendix I of CITES and are protected by Wildlife (Protection) Act 1972 in India. We conducted the first survey for otters in the Indian North-east, along the Kameng River, and recorded 43 otter signs, 23 of the Eurasian otter, and 20 of the Small-clawed otter, and retrieved photographic records of both species. There is an urgent need for further research and the development of conservation strategies to protect otters in the region.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-- Source Themes
+- Otters, India, Arunachal Pradesh
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.iucnosgbull.org/Volume39/Borker_et_al_2022.pdf 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [Atul Borker](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
