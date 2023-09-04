@@ -61,43 +61,55 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Intern
-          company: International Institute of Waste Management
-          company_url: ''
-          company_logo: ''
-          location: Bangalore, India
-          date_start: '2021-02-01'
-          date_end: '2021-05-01'
-          description: |2-
-              Responsibilities include:
+      - title: Project Associate-I
+        company: Wildlife Institute of India
+        company_url: 'https://wii.gov.in'
+        company_logo: ''
+        location: Dehradun, India
+        date_start: '2023-09-11'
+        date_end: ''
+        description: |2- 
+          Assessed level of human-wildlife conflict.
+          Designed and conducted field surveys, data collection, and analysis.
+          Conducted focus group interviews and in consultation, with target local communities, facilitate training in a suite of feasible, economically viable livelihood opportunities for communities. 
+          Conducted education and awareness program  among community members and educational institutions.
+      - title: Intern
+        company: International Institute of Waste Management
+        company_url: 'http://www.iiwm.in'
+        company_logo: ''
+        location: Bangalore, India
+        date_start: '2021-02-01'
+        date_end: '2021-05-01'
+        description: |2-
+          Organized a national-level workshop for government officials (Pollution Control Board). Handled all operations and communications, including content development of the information booklet.
 
-             Organized a national-level workshop for government officials (Pollution Control Board). Handled all operations and communications, including content development of the information booklet.
-        - title: GIS Assistant
-          company: People's Trust For Endangered Species
-          company_url: ''
-          company_logo: ''
-          location: London, United Kingdom
-          date_start: '2020-10-01'
-          date_end: '2020-12-01'
-          description: Digitised traditional orchards from historical maps provided by Landmark and PTES to support restoration of orchards (a priority habitat in UK's Biodiversity Action Plan). Overlayed aerial imagery to identify the status of traditional orchards 
+      - title: GIS Assistant
+        company: People's Trust For Endangered Species
+        company_url: 'https://ptes.org'
+        company_logo: ''
+        location: London, United Kingdom
+        date_start: '2020-10-01'
+        date_end: '2020-12-01'
+        description: Digitised traditional orchards from historical maps provided by Landmark and PTES to support restoration of orchards (a priority habitat in UK's Biodiversity Action Plan). Overlayed aerial imagery to identify the status of traditional orchards 
         
-        - title: Volunteer
-          company: Natural History Society of Northumbria
-          company_url: ''
-          company_logo: ''
-          location: Newcastle, United Kingdom
-          date_start: '2019-10-01'
-          date_end: '2020-12-01'
-          description: Managed the habitat at the reserve. I dedicated several hours to practical conservation work at Gosforth Nature Reserve with tasks including tree planting at a new native 'wildwood', hide maintenance, cutting reed bed, invasive species control, and board walk maintenance.
+      - title: Volunteer
+        company: Natural History Society of Northumbria
+        company_url: 'https://www.nhsn.org.uk'
+        company_logo: ''
+        location: Newcastle, United Kingdom
+        date_start: '2019-10-01'
+        date_end: '2020-12-01'
+        description: Managed the habitat at the reserve. I dedicated several hours to practical conservation work at Gosforth Nature Reserve with tasks including tree planting at a new native 'wildwood', hide maintenance, cutting reed bed, invasive species control, and board walk maintenance.
 
-        - title:  Research Intern
-          company: Wild Otters Research
-          company_url: ''
-          company_logo: ''
-          location: Goa, India
-          date_start: '2018-06-01'
-          date_end: '2018-07-15'
-          description: Conducted field surveys for Smooth-coated otters in mangroves. Identified Smooth-coated otter signs like pugmarks, defecating areas.Set up and monitored trail cameras. Used GPS and Google earth for digital mapping. Analysed and sorted content from trail camera data
+      - title:  Research Intern
+        company: Wild Otters Research
+        company_url: 'https://wildotters.com'
+        company_logo: ''
+        location: Goa, India
+        date_start: '2018-06-01'
+        date_end: '2018-07-15'
+        description: Conducted field surveys for Smooth-coated otters in mangroves. Identified Smooth-coated otter signs like pugmarks, defecating areas.Set up and monitored trail cameras. Used GPS and Google earth for digital mapping. Analysed and sorted content from trail camera data
+        
 
     
     

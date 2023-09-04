@@ -18,8 +18,8 @@ role: Ecologist | Wildlife Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ''
-    url: ''
+  - name: 'Wildlife Institute of India'
+    url: https://wii.gov.in
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include behaviour ecology, conservation, population ecology, management and policy
@@ -68,6 +68,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nishant-bhardwaj-163492194/ 
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0009-0000-3694-8731
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
