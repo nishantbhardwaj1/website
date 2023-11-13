@@ -86,4 +86,5 @@ highlight_name: true
 ---
 
 I am an ecologist with research interest in population ecology, conservation, human-animal interactions, behavioural ecology, spatial ecology, wildlife ecology and wildlife management and policy. I am also interested in investigating how social and environmental factors, and their interactions, influence the capacity for people and wildlife to coexist on shared landscapes.
+ The intersection of conservation and technology and its potential for biodiversity conservation is very appealing to me. I have used AI and machine learning tools to classify camera trap data. I have experience in carrying out otter surveys, Phase 1 & 2 Habitat survey, distance sampling, MARK, and Megadetector. In addition to that, I have experience in GIS, GPS, Camera trapping, R and Google earth engine.
 {style="text-align: justify;"}

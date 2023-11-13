@@ -23,8 +23,8 @@ sections:
       text: ''
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_end: '#3E0F0F'
+        gradient_start: '#844D50'
         text_color_light: true
   - block: about.biography
     id: about
@@ -46,8 +46,8 @@ sections:
           icon_pack: fas
         - name: Python
           description: ''
-          icon: chart-line
-          icon_pack: fas
+          icon: python
+          icon_pack: fab
   
   - block: experience
     content:
@@ -69,9 +69,10 @@ sections:
         date_start: '2023-09-11'
         date_end: ''
         description: |2- 
-          Assessed level of human-wildlife conflict.
-          Designed and conducted field surveys, data collection, and analysis.
-          Conducted focus group interviews and in consultation, with target local communities, facilitate training in a suite of feasible, economically viable livelihood opportunities for communities. 
+          Assessed level of human-wildlife conflict in villages adjoining Nandhaur Wildlife Sanctuary.
+          Designed and conducted field surveys, camera trapping and transects in Nandhaur Landscape.
+          Implemented AI and machine learning tools like Megadetector to classify camera trap images.
+          Conducted focus group interviews and in consultation, with target local communities, facilitated training in a suite of feasible, economically viable livelihood opportunities for communities. 
           Conducted education and awareness program  among community members and educational institutions.
       - title: Intern
         company: International Institute of Waste Management
