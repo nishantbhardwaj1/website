@@ -29,7 +29,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -74,13 +74,13 @@ sections:
           Implemented AI and machine learning tools like Megadetector to classify camera trap images.
           Conducted focus group interviews and in consultation, with target local communities, facilitated training in a suite of feasible, economically viable livelihood opportunities for communities. 
           Conducted education and awareness program  among community members and educational institutions.
-      - title: Intern
+      - title: Training Coordinator
         company: International Institute of Waste Management
         company_url: 'http://www.iiwm.in'
         company_logo: ''
         location: Bangalore, India
-        date_start: '2021-02-01'
-        date_end: '2021-05-01'
+        date_start: '2021-01-01'
+        date_end: '2021-03-01'
         description: |2-
           Organized a national-level workshop for government officials (Pollution Control Board). Handled all operations and communications, including content development of the information booklet.
 
@@ -93,13 +93,13 @@ sections:
         date_end: '2020-12-01'
         description: Digitised traditional orchards from historical maps provided by Landmark and PTES to support restoration of orchards (a priority habitat in UK's Biodiversity Action Plan). Overlayed aerial imagery to identify the status of traditional orchards 
         
-      - title: Volunteer
+      - title: Student Volunteer
         company: Natural History Society of Northumbria
         company_url: 'https://www.nhsn.org.uk'
         company_logo: ''
         location: Newcastle, United Kingdom
         date_start: '2019-10-01'
-        date_end: '2020-12-01'
+        date_end: '2020-10-01'
         description: Managed the habitat at the reserve. I dedicated several hours to practical conservation work at Gosforth Nature Reserve with tasks including tree planting at a new native 'wildwood', hide maintenance, cutting reed bed, invasive species control, and board walk maintenance.
 
       - title:  Research Intern
