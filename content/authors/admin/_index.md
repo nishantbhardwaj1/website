@@ -22,15 +22,16 @@ organizations:
     url: https://wii.gov.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include behaviour ecology, conservation, population ecology, management and policy
+bio: My research interests include behaviour ecology, conservation, population ecology, wildlife management and policy
 
 # Interests to show in About widget
 interests:
-  - Conservation and Management
+
+  - Human-animal interactions
   - Population Ecology 
   - Animal Behaviour
   - Behavioural Ecology
-  - Spatial Analysis
+  - Conservation & management
 
 # Education to show in About widget
 education:
@@ -67,7 +68,7 @@ social:
     link: https://github.com/nishantbhardwaj1
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/nishant-bhardwaj-163492194/ 
+    link: https://www.linkedin.com/in/nishantbhardwajnb/ 
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0009-0000-3694-8731
@@ -85,7 +86,7 @@ email: ''
 highlight_name: true
 ---
 
-I am an ecologist with research interest in population ecology, human-animal interactions, behavioural ecology, wildlife conservation and management. I am also interested in investigating how social and environmental factors, and their interactions, influence the capacity for people and wildlife to coexist on shared landscapes. 
- The intersection of conservation and technology and its potential for biodiversity conservation is very appealing to me. I have used AI and machine learning tools to classify camera trap data. I have experience in carrying out otter surveys, Phase 1 & 2 Habitat survey, distance sampling, MARK, and Megadetector. In addition to that, I have experience in GIS, GPS, Camera trapping, R and Google earth engine. 
- I love being outdoor and reading when I am not delving into research!
+I am an ecologist with focus on  population ecology, human-animal interactions, behavioural ecology, wildlife conservation and management. I am also interested in investigating how social and environmental factors, and their interactions, influence the capacity for people and wildlife to coexist in shared landscapes. 
+ The integration of conservation and technology especially its potential for biodiversity conservation is very appealing to me. I have used AI and machine learning tools to classify camera trap data. I have experience in carrying out transects, sign surveys for carnivores, otters, Phase 1 & 2 Habitat survey, distance sampling, MARK, and Megadetector. In addition to that, I have experience in GIS, GPS, Camera trapping, R and Google earth engine. 
+ I love being outdoors and reading when I am not delving into research!
 {style="text-align: justify;"}
