@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Earth
-  theme_night: Earth
-  font: minimal
+  theme: shilaan_theme
+  day_night: false
+  font: shilaan_font
   font_size: L
 
 # SEO
@@ -37,7 +37,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023-2024 Nishant Bhardwaj. This work is licensed under {license}'
+    notice: '© 2023-2025 Nishant Bhardwaj. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Coffee"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2196F3"
+
+# Menu
+menu_primary = "#FFF" 
+menu_text = "#000"
+menu_text_active = "#035AA6"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(234, 242, 250)"
+
+link = "#035AA6"
+link_hover = "#035AA6"
