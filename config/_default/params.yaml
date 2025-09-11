@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme: shilaan_theme
-  day_night: false
-  font: shilaan_font
-  font_size: L
+  theme: minimal
+  day_night: TRUE
+  font: classic
+  font_size: M
 
 # SEO
 

@@ -18,8 +18,8 @@ role: Ecologist | Wildlife Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 'Rajasthan Forest Department'
-    url: https://forest.rajasthan.gov.in/content/raj/forest/en/home.html 
+  - name: ''
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include behaviour ecology, conservation, population ecology, wildlife management and policy
@@ -88,7 +88,7 @@ highlight_name: true
 
 I am an ecologist with focus on  population ecology, human-animal interactions, behavioural ecology, wildlife conservation and management. I am also interested in investigating how social and environmental factors, and their interactions, influence the capacity for people and wildlife to coexist in shared landscapes. The integration of conservation and technology especially its potential for biodiversity conservation is very appealing to me. I have used AI and machine learning tools to classify camera trap data. 
 
-I have worked across government, academia, and international NGOs on a diverse range of species, from otters to large carnivores such as tigers and leopards. My fieldwork spans a wide variety of ecosystems — from the Himalayan lowlands and the scrub forests of Rajasthan to the temperate woodlands of EuropeI have experience in GIS, GPS, Camera trapping, R and Google Earth Engine. 
+I have worked across government, academia, and international NGOs on a diverse range of species, from otters to large carnivores such as tigers and leopards. My fieldwork spans a wide variety of ecosystems — from the Himalayan lowlands and the scrub forests of Rajasthan to the temperate woodlands of Europe. I have experience in GIS, GPS, Camera trapping, R and Google Earth Engine. 
 
  I love being outdoors and reading when I am not delving into research!
 {style="text-align: justify;"}
