@@ -6,8 +6,9 @@
 # Appearance
 
 appearance:
-  theme: minimal
-  day_night: TRUE
+  theme_day: minimal
+  theme_night: dark
+  day_night: true
   font: classic
   font_size: M
 
@@ -45,7 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023-2025 Nishant Bhardwaj. This work is licensed under {license}'
+    notice: '© 2023-2026 Nishant Bhardwaj. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
