@@ -27,8 +27,9 @@ bio: My research interests include behaviour ecology, conservation, population e
 # Interests to show in About widget
 interests:
 
-  - Human-animal interactions
+  - Biodiversity Assessment
   - Population Ecology 
+  - Human-animal interactions
   - Animal Behaviour
   - Behavioural Ecology
   - Conservation & management
@@ -54,12 +55,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:bhardwajnishant.nb@gmail.com 
-  - icon: twitter
-    icon_pack: fab
-    link: ''
-    label: ''
-    display:
-      header: true
   - icon: '' # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ''
     link: ''
