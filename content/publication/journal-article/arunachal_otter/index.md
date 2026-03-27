@@ -8,7 +8,7 @@ authors:
 - admin
 
 
-date: "2022-01-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ summary: ''
 
 tags:
 - Otters, India, Arunachal Pradesh
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -48,9 +48,10 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [Atul Borker](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

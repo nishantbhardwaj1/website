@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ecologist | Wildlife Biologist
+role: Environmental Consultant | Ecologist | Wildlife Biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -56,8 +56,8 @@ social:
     link: mailto:bhardwajnishant.nb@gmail.com 
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/nishantb2000
-    label: Follow me on Twitter
+    link: ''
+    label: ''
     display:
       header: true
   - icon: '' # Alternatively, use `google-scholar` icon from `ai` icon pack
